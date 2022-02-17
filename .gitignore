@@ -3,3 +3,6 @@
 
 # Ignore input files
 /files/
+
+# Ignore HTML files
+*.html
